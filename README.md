@@ -1,0 +1,1 @@
+The notebook contains code for processing goodreads data from https://mengtingwan.github.io/data/goodreads.html. It processes the data into output csv files, which can then be used within mysql. The code was very quickly put together and lacks any documentation.
